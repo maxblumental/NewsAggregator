@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="category">Категория</string>
+    <string name="general">Общее</string>
+    <string name="business">Бизнес</string>
+    <string name="entertainment">Развлечения</string>
+    <string name="health">Здоровье</string>
+    <string name="science">Наука</string>
+    <string name="sports">Спорт</string>
+    <string name="technology">Технологии</string>
+</resources>
